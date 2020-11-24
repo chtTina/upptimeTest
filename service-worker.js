@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9fe576694b9ceb6454f829daac483355.js"
+  "/upptime/precache-manifest.be3a2e1a6a484573bfd489e0f5f9b5d9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "upptime-web"});
